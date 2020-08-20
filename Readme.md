@@ -2,6 +2,15 @@
 
 ## ALL DEVELOPMENT MOVED ELSEWHERE
 
+##Run Demo example
+
+# OpenGL3 and GLFW
+```bash
+cd demo/glfw_opengl3
+make
+binary file will be in bin dir
+```
+
 Dear visitor,
 
 this repository, issue tracker, etc. is abandoned in favor of https://github.com/Immediate-Mode-UI/Nuklear . Any activity in this issue tracker, any pull requests, etc. will be ignored.
